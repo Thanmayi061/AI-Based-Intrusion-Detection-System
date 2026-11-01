@@ -1,0 +1,26 @@
+# Large datasets
+*.parquet
+*.csv
+*.txt
+
+# Trained ML models
+*.pkl
+*.joblib
+
+# Dataset and model folders
+dataset/
+models/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets
+.env
+
+# Temporary files
+*.log
